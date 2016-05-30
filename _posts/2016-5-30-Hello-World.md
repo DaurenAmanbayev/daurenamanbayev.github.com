@@ -2,7 +2,9 @@
 layout: post
 title: My list of must read programming books and docs
 ---
+
 My list of books and docs for intensive learning of computer science and programming
+
 ![_config.yml]({{ site.baseurl }}/images/dotnet.jpg)
 
 Databases 
