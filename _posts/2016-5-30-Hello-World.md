@@ -5,23 +5,25 @@ title: My list of must read programming books and docs
 
 My list of books and docs for intensive learning of computer science and programming
 
-![_config.yml]({{ site.baseurl }}/images/dotnet.jpg)
+Databases: 
+MS SQL Server 2012, by Dushan Petkovich (success); 
+Learning SQL, by Alan Beaulieu (success); 
+SQL The Complete Reference, 3rd Edition Kindle Edition, by James Groff, Paul Weinberg, Andy Oppel (success); 
 
-Databases 
-MS SQL Server 2012, by Dushan Petkovich;
-Learning SQL, by Alan Beaulieu;
-SQL The Complete Reference, 3rd Edition Kindle Edition, by James Groff (Au, Paul Weinberg, Andy Oppel; 
+C# and .Net: 
+Andrew Troelsen, Pro C# 5.0 and the .Net 4.5 Framework (success); 
+Jeffrey Richter, CLR via C# (current); 
+Jon Skeet, C# in Depth (current); 
+John Paul Mueller, Microsoft ADO.NET Entity Framework, Step by Step (success);
 
-C# and .Net
-Andrew Troelsen, Pro C# 5.0 and the .Net 4.5 Framework
-Jeffrey Richter, CLR via C#
-Jon Skeet, C# in Depth
-John Paul Mueller, Microsoft ADO.NET Entity Framework, Step by Step
+C++:
+Object-Oriented Programming in C++, by Robert Lafore (success);
 
-C++
+JavaScript:
+Eloquent JavaScript, by Marijn Haverbeke (success);
 
-JavaScript
-
+OOP:
+Perfect code, by Steve McConnell (current)
 
 
 
