@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about me!
 
-### More Information
+### About Me
 
-A place to include any other types of information that you'd like to include about yourself.
+Codeacademy, https://www.codecademy.com/webJumper52974
+Microsoft Virtual Academy, http://www.microsoftvirtualacademy.com/Profile.aspx?alias=1783636
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yagamikiri@gmail.com](mailto:yagamikiri@gmail.com)
