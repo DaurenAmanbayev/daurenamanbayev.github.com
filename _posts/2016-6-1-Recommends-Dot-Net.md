@@ -29,8 +29,8 @@ categories: Learning
 	* Быстрая обучаемость
 	* Английский язык на уровне Intermediate (технический письменный и устный)
 
-##Рекомендуем прочитать:
-#Обязательно:
+## Рекомендуем прочитать:
+# Обязательно:
 * CLR via C# by Jeffrey Richter
 * The Art of Computer Programming by Donald E. Knuth
 * Code Complete: A Practical Handbook of Software Construction by Steve McConnell
@@ -39,7 +39,7 @@ categories: Learning
 * Design Patterns: Elements of Reusable Object-Oriented Software by Gamma, Helm, Johnson, Vlissides
 * jQuery in Action, Second Edition by Bear Bibeault
 
-#Желательно:
+# Желательно:
 * The Pragmatic Programmer: From Journeyman to Master авторов Andrew Hunt, Dave Thomas
 * The Design of the UNIX Operating System автора Maurice J. Bach
 * Programming Pearls (2nd Edition) автора Jon Bentley
@@ -49,8 +49,8 @@ categories: Learning
 * Types and Programming Languages автора Benjamin C. Pierce
 * The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition (2nd Edition) автора Frederick P. Brooks
 
-##Интернет-ресурсы:
-#Материалы для самообучения:
+## Интернет-ресурсы:
+# Материалы для самообучения:
 * http://mvcmusicstore.codeplex.com/
 * http://nerddinner.codeplex.com/
 
