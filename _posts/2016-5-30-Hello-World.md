@@ -1,17 +1,20 @@
 ---
 layout: post
+comments: true
 title: Список книг по программированию, которые следует прочесть
+categories: Learning
+- blog
 ---
 
 Мой список книг по программированию, которые полезно будет прочесть. Большинство я прочитал сам, некоторые из книг считаются классикой и обязательными к прочтению по мнению различных источников. 
 
 
-Databases: 
-* @ MS SQL Server 2012, by Dushan Petkovich; 
-* @ SQL Quick Start, by Chris Fehily; 
-* @ SQL The Complete Reference, 3rd Edition Kindle Edition, by James Groff, Paul Weinberg, Andy Oppel; 
+# Databases: 
+*	@ MS SQL Server 2012, by Dushan Petkovich; 
+* 	@ SQL Quick Start, by Chris Fehily; 
+* 	@ SQL The Complete Reference, 3rd Edition Kindle Edition, by James Groff, Paul Weinberg, Andy Oppel; 
 
-C# and .Net: 
+# C# and .Net: 
 * % Andrew Troelsen, Pro C# 5.0 and the .Net 4.5 Framework; 
 * @ Герберт Шилдт, C# 5.0 Полное руководство
 * % Jeffrey Richter, CLR via C#; 
