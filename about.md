@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about me!
+Network, System Engineer && Developer!
 
 ### About Me
 
