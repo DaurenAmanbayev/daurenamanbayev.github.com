@@ -24,6 +24,9 @@ categories: Learning
 * % Программирование с использованием Windows Forms, by Петцольд Ч.;
 * % Привязка данных в Windows Forms, by Нойес Б.;
 
+<div>
+	<p>Working around...</p>
+</div>
 C++:
 * @ Object-Oriented Programming in C++, by Robert Lafore;
 
