@@ -30,6 +30,7 @@ categories: Learning
 	* Английский язык на уровне Intermediate (технический письменный и устный)
 
 ## Рекомендуем прочитать:
+
 # Обязательно:
 * CLR via C# by Jeffrey Richter
 * The Art of Computer Programming by Donald E. Knuth
