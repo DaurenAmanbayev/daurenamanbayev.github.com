@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Glassfish 4.1.1: start-domain failed
+title: Glassfish 4.1.1 start-domain failed
 categories: Troubleshooting
 ---
 
